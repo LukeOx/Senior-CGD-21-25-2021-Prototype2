@@ -987,3 +987,516 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.06-09.15.02:306][784]AssetCheck: New page: Asset Save: multiple assets
 [2021.01.06-09.15.02:306][784]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
 [2021.01.06-09.15.02:306][784]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.01.06-09.19.06:391][545]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.19.06:402][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.19.06:402][545]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:19:06)
+[2021.01.06-09.19.06:427][545]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.19.06:435][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008576s)
+[2021.01.06-09.19.06:436][545]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.19.06:436][545]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F497D3C800), frame # 9545
+[2021.01.06-09.19.06:437][545]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4A9C91D00), frame # 9545
+[2021.01.06-09.19.06:437][545]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2021.01.06-09.19.06:437][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.009895s)
+[2021.01.06-09.19.06:447][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.19.06:449][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.19.06:449][545]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.19.06:449][545]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.19.06:453][545]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.19.06:453][545]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.19.06:477][545]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.19.06:477][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.19.06:477][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.19.06:477][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.19.06:478][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.19.06:487][545]LogInit: FAudioDevice initialized.
+[2021.01.06-09.19.06:496][545]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.19.06:499][545]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.19.06
+[2021.01.06-09.19.06:499][545]LogWorld: Bringing up level for play took: 0.002064
+[2021.01.06-09.19.06:499][545]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.06-09.19.06:500][545]PIE: Server logged in
+[2021.01.06-09.19.06:501][545]PIE: Play in editor total start time 0.1 seconds.
+[2021.01.06-09.19.35:658][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.19.35:658][ 37]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.19.35:658][ 37]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.19.35:658][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.19.35:665][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.19.35:666][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.19.35:675][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.19.35:702][ 37]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4A9C91D00), frame # 13037
+[2021.01.06-09.19.35:702][ 37]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F497D3C800), frame # 13037
+[2021.01.06-09.19.35:703][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.06-09.19.35:746][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.06-09.20.31:910][422]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2021.01.06-09.20.33:598][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.01.06-09.20.48:149][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.20.53:796][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.21.01:358][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.21.08:704][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.21.09:129][311]Cmd: SELECT NONE
+[2021.01.06-09.22.57:952][365]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2021.01.06-09.22.57:982][366]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (VehicleMesh)
+[2021.01.06-09.23.01:250][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.23.01:413][743]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.01.06-09.23.02:122][743]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.06-09.23.03:568][879]LogSlate: Took 0.005933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.06-09.23.03:599][883]LogSlate: Window 'Sedan' being destroyed
+[2021.01.06-09.23.15:112][236]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.23.15:175][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.06-09.23.15:233][236]LogSlate: Took 0.007290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.06-09.23.15:523][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.23.15:566][269]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/Sedan3A8219EC423ED579529870803D7C2618.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.23.15:580][269]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.23.15:580][269]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.23.24:628][347]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.23.24:679][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.06-09.23.25:025][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.23.25:062][382]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/Sedan8D0A42C4479729E1AFACF7A996BCC9E7.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.23.25:071][382]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.23.25:071][382]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.23.59:161][458]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.23.59:212][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.06-09.23.59:582][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.23.59:620][496]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/Sedan1C0D023C4FFCF8FC0E7954B43924F2D5.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.23.59:629][496]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.23.59:629][496]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.24.19:697][850]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.24.19:746][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.01.06-09.24.20:110][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.24.20:144][888]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/SedanC10D179D4A232520277A85AB19D41D82.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.24.20:156][888]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.24.20:156][888]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.24.21:413][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.24.21:423][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.24.21:423][ 36]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:24:21)
+[2021.01.06-09.24.21:457][ 36]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.21:466][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008707s)
+[2021.01.06-09.24.21:466][ 36]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.24.21:466][ 36]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F496FEC400), frame # 29036
+[2021.01.06-09.24.21:466][ 36]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F52DAB2AC0), frame # 29036
+[2021.01.06-09.24.21:467][ 36]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.01.06-09.24.21:467][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.009793s)
+[2021.01.06-09.24.21:486][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.24.21:487][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.24.21:487][ 36]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.24.21:487][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.24.21:490][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.24.21:490][ 36]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.24.21:514][ 36]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.24.21:514][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.24.21:514][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.24.21:514][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.24.21:514][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.24.21:524][ 36]LogInit: FAudioDevice initialized.
+[2021.01.06-09.24.21:535][ 36]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.24.21:537][ 36]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.24.21
+[2021.01.06-09.24.21:537][ 36]LogWorld: Bringing up level for play took: 0.001866
+[2021.01.06-09.24.21:538][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.06-09.24.21:539][ 36]PIE: Server logged in
+[2021.01.06-09.24.21:540][ 36]PIE: Play in editor total start time 0.117 seconds.
+[2021.01.06-09.24.25:558][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.25:558][508]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.25:558][508]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.24.25:558][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.25:569][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.24.25:571][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.25:627][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.25:628][508]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F52DAB2AC0), frame # 29508
+[2021.01.06-09.24.25:628][508]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F496FEC400), frame # 29508
+[2021.01.06-09.24.25:630][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.06-09.24.25:660][509]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.06-09.24.26:813][643]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.24.26:823][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.24.26:823][643]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:24:26)
+[2021.01.06-09.24.26:857][643]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.26:865][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008289s)
+[2021.01.06-09.24.26:866][643]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.24.26:866][643]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4A9F42E00), frame # 29643
+[2021.01.06-09.24.26:866][643]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F53368DBC0), frame # 29643
+[2021.01.06-09.24.26:866][643]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2021.01.06-09.24.26:866][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.009705s)
+[2021.01.06-09.24.26:884][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.24.26:886][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.24.26:886][643]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.24.26:886][643]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.24.26:889][643]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.24.26:889][643]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.24.26:912][643]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.24.26:912][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.24.26:912][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.24.26:912][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.24.26:912][643]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.24.26:922][643]LogInit: FAudioDevice initialized.
+[2021.01.06-09.24.26:927][643]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.24.26:930][643]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.24.26
+[2021.01.06-09.24.26:930][643]LogWorld: Bringing up level for play took: 0.001556
+[2021.01.06-09.24.26:930][643]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.06-09.24.26:932][643]PIE: Server logged in
+[2021.01.06-09.24.26:933][643]PIE: Play in editor total start time 0.11 seconds.
+[2021.01.06-09.24.30:617][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.30:617][ 78]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.30:617][ 78]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.24.30:618][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.30:629][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.24.30:631][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.30:645][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.30:682][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F53368DBC0), frame # 30078
+[2021.01.06-09.24.30:683][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4A9F42E00), frame # 30078
+[2021.01.06-09.24.30:684][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.06-09.24.30:705][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.06-09.24.35:374][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.06-09.24.35:412][629]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMap1284CE7B4458DFA62F437DABACAEF154.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.01.06-09.24.35:652][629]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMap_BuiltDataC34DFF114F49EC242D6E8283961C0A41.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.01.06-09.24.35:664][629]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.06-09.24.35:664][629]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.01.06-09.24.35:664][629]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.01.06-09.24.43:897][606]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:1).
+[2021.01.06-09.24.47:228][  2]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.24.47:262][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.01.06-09.24.47:734][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.24.47:753][ 54]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/Sedan2634C1D4407F8B680DC722811AC5743F.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.24.47:764][ 54]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.24.47:764][ 54]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.24.49:105][213]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.24.49:115][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.24.49:115][213]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:24:49)
+[2021.01.06-09.24.49:146][213]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.49:155][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008518s)
+[2021.01.06-09.24.49:156][213]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.24.49:156][213]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F52DD6DE00), frame # 32213
+[2021.01.06-09.24.49:156][213]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F5336DEAC0), frame # 32213
+[2021.01.06-09.24.49:156][213]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2021.01.06-09.24.49:156][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.009914s)
+[2021.01.06-09.24.49:176][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.06-09.24.49:177][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.24.49:178][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.24.49:178][213]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.24.49:178][213]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.24.49:180][213]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.24.49:180][213]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.24.49:204][213]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.24.49:204][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.24.49:204][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.24.49:204][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.24.49:204][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.24.49:214][213]LogInit: FAudioDevice initialized.
+[2021.01.06-09.24.49:218][213]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.24.49:221][213]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.24.49
+[2021.01.06-09.24.49:221][213]LogWorld: Bringing up level for play took: 0.001660
+[2021.01.06-09.24.49:221][213]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.06-09.24.49:223][213]PIE: Server logged in
+[2021.01.06-09.24.49:223][213]PIE: Play in editor total start time 0.108 seconds.
+[2021.01.06-09.24.51:837][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.51:837][520]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.24.51:837][520]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.24.51:838][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.51:844][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.24.51:846][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.24.51:894][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.24.51:894][520]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F5336DEAC0), frame # 32520
+[2021.01.06-09.24.51:894][520]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F52DD6DE00), frame # 32520
+[2021.01.06-09.24.51:896][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.06-09.24.51:919][521]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.06-09.24.52:629][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.01.06-09.24.52:657][601]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMapB8D78E27406CD31964070EA09DE5294B.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.01.06-09.24.52:885][601]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMap_BuiltDataBFADC18540A58BE1833A0CAC5DDF60A0.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.01.06-09.24.52:898][601]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.06-09.24.52:898][601]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.01.06-09.24.52:898][601]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.01.06-09.25.42:774][  8]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.01.06-09.25.43:508][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.25.44:077][155]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.25.46:499][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.26.09:572][199]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2021.01.06-09.26.14:441][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.26.14:457][774]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/Sedan505FCDC8430A3EE4A36501B70055DFA6.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.26.14:466][774]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.26.14:466][774]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.26.23:305][832]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.26.23:316][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.26.23:316][832]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:26:23)
+[2021.01.06-09.26.23:357][832]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.26.23:365][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008506s)
+[2021.01.06-09.26.23:366][832]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.26.23:366][832]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F52ED7DE00), frame # 42832
+[2021.01.06-09.26.23:366][832]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F5330B39C0), frame # 42832
+[2021.01.06-09.26.23:366][832]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.01.06-09.26.23:366][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.009703s)
+[2021.01.06-09.26.23:386][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.26.23:389][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.26.23:389][832]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.26.23:389][832]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.26.23:392][832]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.26.23:392][832]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.26.23:416][832]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.26.23:416][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.26.23:416][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.26.23:416][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.26.23:416][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.26.23:426][832]LogInit: FAudioDevice initialized.
+[2021.01.06-09.26.23:434][832]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.26.23:437][832]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.26.23
+[2021.01.06-09.26.23:437][832]LogWorld: Bringing up level for play took: 0.002206
+[2021.01.06-09.26.23:437][832]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.06-09.26.23:439][832]PIE: Server logged in
+[2021.01.06-09.26.23:440][832]PIE: Play in editor total start time 0.124 seconds.
+[2021.01.06-09.27.00:157][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.27.00:157][231]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.27.00:157][231]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.27.00:158][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.27.00:169][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.27.00:172][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.27.00:203][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.27.00:204][231]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F5330B39C0), frame # 47231
+[2021.01.06-09.27.00:204][231]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F52ED7DE00), frame # 47231
+[2021.01.06-09.27.00:205][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.06-09.27.00:228][232]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.06-09.27.10:796][484]BlueprintLog: New page: Compile Sedan
+[2021.01.06-09.27.10:830][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.06-09.27.11:378][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Sedan/Sedan" FILE="../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset" SILENT=true
+[2021.01.06-09.27.11:396][546]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/SedanAA7CBB9F4620E33B9FACF18356504D1E.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Sedan/Sedan.uasset'
+[2021.01.06-09.27.11:406][546]AssetCheck: New page: Asset Save: Sedan
+[2021.01.06-09.27.11:406][546]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Sedan/Sedan.Sedan
+[2021.01.06-09.27.12:911][722]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.27.12:921][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.27.12:921][722]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:27:12)
+[2021.01.06-09.27.12:957][722]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.27.12:965][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008648s)
+[2021.01.06-09.27.12:966][722]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.27.12:967][722]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F52EBD0A00), frame # 48722
+[2021.01.06-09.27.12:967][722]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F5302965C0), frame # 48722
+[2021.01.06-09.27.12:967][722]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.01.06-09.27.12:967][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.010194s)
+[2021.01.06-09.27.12:986][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.27.12:988][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.27.12:988][722]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.27.12:988][722]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.27.12:990][722]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.27.12:990][722]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.27.13:013][722]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.27.13:013][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.27.13:013][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.27.13:013][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.27.13:014][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.27.13:023][722]LogInit: FAudioDevice initialized.
+[2021.01.06-09.27.13:027][722]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.27.13:029][722]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.27.13
+[2021.01.06-09.27.13:030][722]LogWorld: Bringing up level for play took: 0.001614
+[2021.01.06-09.27.13:030][722]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.06-09.27.13:031][722]PIE: Server logged in
+[2021.01.06-09.27.13:032][722]PIE: Play in editor total start time 0.111 seconds.
+[2021.01.06-09.28.27:477][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.28.27:477][175]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.28.27:477][175]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.28.27:477][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.28.27:483][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.28.27:486][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.28.27:534][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.28.27:534][175]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F5302965C0), frame # 57175
+[2021.01.06-09.28.27:535][175]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F52EBD0A00), frame # 57175
+[2021.01.06-09.28.27:536][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.06-09.28.27:560][176]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.06-09.28.42:425][957]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.28.42:436][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.28.42:436][957]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:28:42)
+[2021.01.06-09.28.42:466][957]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.28.42:475][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008558s)
+[2021.01.06-09.28.42:476][957]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.28.42:476][957]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F5330CCE00), frame # 58957
+[2021.01.06-09.28.42:476][957]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F52EDBC7C0), frame # 58957
+[2021.01.06-09.28.42:476][957]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2021.01.06-09.28.42:476][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.010142s)
+[2021.01.06-09.28.42:495][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.28.42:496][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.28.42:496][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.28.42:497][957]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.28.42:497][957]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.28.42:499][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.28.42:500][957]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.28.42:524][957]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.28.42:524][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.28.42:524][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.28.42:524][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.28.42:524][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.28.42:533][957]LogInit: FAudioDevice initialized.
+[2021.01.06-09.28.42:540][957]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.28.42:543][957]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.28.42
+[2021.01.06-09.28.42:543][957]LogWorld: Bringing up level for play took: 0.001520
+[2021.01.06-09.28.42:543][957]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.06-09.28.42:544][957]PIE: Server logged in
+[2021.01.06-09.28.42:545][957]PIE: Play in editor total start time 0.11 seconds.
+[2021.01.06-09.28.43:407][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.28.43:407][ 55]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.28.43:407][ 55]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.28.43:407][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.28.43:418][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.28.43:420][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.28.43:434][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.28.43:454][ 55]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F52EDBC7C0), frame # 59055
+[2021.01.06-09.28.43:454][ 55]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F5330CCE00), frame # 59055
+[2021.01.06-09.28.43:456][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.01.06-09.28.43:482][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.06-09.29.00:133][ 38]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD
+[2021.01.06-09.29.08:126][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.01.06-09.29.13:683][952]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.06-09.29.14:860][952]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.29.14:860][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.29.14:897][952]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD
+[2021.01.06-09.29.15:427][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.01.06-09.29.15:443][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.01.06-09.29.15:458][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.06-09.29.16:719][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.01.06-09.29.16:748][ 97]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMap2DC96EB84D3CC739BABE278022A6DCA1.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2021.01.06-09.29.16:976][ 97]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleExampleMap_BuiltData74BE88A646AFC5260874B2BF962155C9.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2021.01.06-09.29.16:991][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.06-09.29.16:991][ 97]LogContentValidation: Display: Validating World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2021.01.06-09.29.16:991][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleBP/Maps/VehicleExampleMap_BuiltData.VehicleExampleMap_BuiltData
+[2021.01.06-09.29.17:439][150]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.29.17:450][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.29.17:450][150]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:29:17)
+[2021.01.06-09.29.17:450][150]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.29.17:459][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008764s)
+[2021.01.06-09.29.17:460][150]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.29.17:460][150]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F4AA15B400), frame # 62150
+[2021.01.06-09.29.17:460][150]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F4928C8B80), frame # 62150
+[2021.01.06-09.29.17:461][150]LogPlayLevel: PIE: World Init took: (0.001813s)
+[2021.01.06-09.29.17:461][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.010734s)
+[2021.01.06-09.29.17:479][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.29.17:480][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.29.17:480][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.29.17:481][150]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.29.17:481][150]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.29.17:483][150]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.29.17:483][150]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.29.17:506][150]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.29.17:506][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.29.17:506][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.29.17:506][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.29.17:507][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.29.17:516][150]LogInit: FAudioDevice initialized.
+[2021.01.06-09.29.17:520][150]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.29.17:522][150]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.29.17
+[2021.01.06-09.29.17:522][150]LogWorld: Bringing up level for play took: 0.001524
+[2021.01.06-09.29.17:522][150]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.06-09.29.17:524][150]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.01.06-09.29.17:524][150]PIE: Server logged in
+[2021.01.06-09.29.17:524][150]PIE: Play in editor total start time 0.075 seconds.
+[2021.01.06-09.29.21:177][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.29.21:177][582]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.29.21:177][582]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.29.21:177][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.29.21:188][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.29.21:190][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.29.21:224][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.29.21:224][582]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F4928C8B80), frame # 62582
+[2021.01.06-09.29.21:225][582]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F4AA15B400), frame # 62582
+[2021.01.06-09.29.21:226][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.01.06-09.29.21:248][583]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.06-09.29.22:170][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2021.01.06-09.29.24:240][908]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.29.24:240][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.29.24:283][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2021.01.06-09.29.25:407][  7]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Saved/VehicleGameModeD9C62D0B45035FC84A130E82A80FBCFC.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Senior-CGD-21-25-2021-Prototype2/Prototype2/Content/VehicleBP/Blueprints/VehicleGameMode.uasset'
+[2021.01.06-09.29.25:416][  7]AssetCheck: New page: Asset Save: VehicleGameMode
+[2021.01.06-09.29.25:417][  7]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2021.01.06-09.29.31:621][751]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.06-09.29.31:633][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.06-09.29.31:633][751]PIE: New page: PIE session: VehicleExampleMap (6 Jan 2021, 09:29:31)
+[2021.01.06-09.29.31:666][751]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.29.31:676][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009275s)
+[2021.01.06-09.29.31:677][751]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2021.01.06-09.29.31:677][751]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F53B8D1A00), frame # 63751
+[2021.01.06-09.29.31:677][751]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F53639DA80), frame # 63751
+[2021.01.06-09.29.31:677][751]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2021.01.06-09.29.31:678][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.011151s)
+[2021.01.06-09.29.31:701][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.06-09.29.31:702][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.06-09.29.31:702][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.06-09.29.31:703][751]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.06-09.29.31:703][751]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.06-09.29.31:705][751]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.06-09.29.31:705][751]LogAudioMixer: Display: 1: FrontRight
+[2021.01.06-09.29.31:735][751]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.06-09.29.31:735][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.06-09.29.31:735][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.06-09.29.31:735][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.06-09.29.31:735][751]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.06-09.29.31:744][751]LogInit: FAudioDevice initialized.
+[2021.01.06-09.29.31:751][751]LogLoad: Game class is 'VehicleGameMode_C'
+[2021.01.06-09.29.31:754][751]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2021.01.06-09.29.31
+[2021.01.06-09.29.31:754][751]LogWorld: Bringing up level for play took: 0.001640
+[2021.01.06-09.29.31:754][751]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.06-09.29.31:755][751]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.01.06-09.29.31:755][751]PIE: Server logged in
+[2021.01.06-09.29.31:756][751]PIE: Play in editor total start time 0.123 seconds.
+[2021.01.06-09.30.13:557][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.30.13:557][762]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2021.01.06-09.30.13:557][762]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.06-09.30.13:557][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.30.13:564][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.06-09.30.13:566][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.06-09.30.13:623][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.06-09.30.13:624][762]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F53639DA80), frame # 68762
+[2021.01.06-09.30.13:624][762]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F53B8D1A00), frame # 68762
+[2021.01.06-09.30.13:625][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.01.06-09.30.13:649][763]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.06-09.30.21:116][642]LogSlate: Window 'Project Settings' being destroyed

@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Prototype2/Saved/Config/Windows/Engine.ini
+Prototype2/Saved/AutoScreenshot.png
+Prototype2/Saved/Autosaves/PackageRestoreData.json
